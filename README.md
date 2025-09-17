@@ -136,7 +136,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo exp
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoCenedeze&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocenedeze&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+" 
   />
 
 <img 

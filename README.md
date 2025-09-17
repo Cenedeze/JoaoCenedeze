@@ -1,4 +1,4 @@
-#  João VItor Cenedeze
+#  João Vitor Cenedeze
 
 **`Desenvolvedor em aprendizado`**
 
@@ -147,6 +147,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo exp
   />
 
 </p>
+
 
 
 

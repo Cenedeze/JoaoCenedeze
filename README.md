@@ -1,12 +1,11 @@
-# 🧑🏻‍💻 Matheus Antero
+# 🧑🏻‍💻 João VItor Cenedeze
 
 **`Desenvolvedor em aprendizado`**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="start-left"> 
-  Olá! Meu nome é Matheus Antero, tenho 21 anos e sou natural de São Paulo.
-Desde os 17 anos estou imerso no mundo da tecnologia, quando concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC Sapopemba.
+  Olá! Meu nome é João Vitor Cenedeze, tenho 22 anos e sou natural de São Paulo.
 Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo expandindo meus conhecimentos em programação por meio de cursos extracurriculares e projetos práticos.
 </p>
 
@@ -15,13 +14,13 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo exp
 </p>
 
 <p align="left">
-  <a href="antero.bustt@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=CE4630&logo=gmail&logoColor=white&link=antero.bustt@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/matheus-antero-05646a225" title="LinkedIn">
+  <a href="joaovitorcenedeze@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=CE4630&logo=gmail&logoColor=white&link=joaovitorcenedeze@gmail.com" alt="Gmail"/></a>
+  <a href="[https://www.linkedin.com/in/matheus-antero-05646a225](https://www.linkedin.com/in/cenedeze-undefined-37664a288/)" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511985096930" title="WhatsApp">
+  <a href="https://wa.me/5511948425746" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/71mtss" title="Instagram">
+  <a href="https://www.instagram.com/cenedeze__" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
@@ -148,4 +147,5 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo exp
   />
 
 </p>
+
 
